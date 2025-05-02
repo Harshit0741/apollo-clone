@@ -70,7 +70,7 @@ npm install
 npm start
 ```
 
-The frontend will run on `http://localhost:3000`.
+The frontend will run on `http://localhost:3000/specialties/general-physician-internal-medicine`.
 
 ### 3. Backend (Node.js & Express)
 #### Navigate to the backend directory:
